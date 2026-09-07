@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-veer/Leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-veer/Leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |
