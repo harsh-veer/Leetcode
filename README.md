@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harsh-veer/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/harsh-veer/Leetcode/tree/master/0039-combination-sum) |
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/harsh-veer/Leetcode/tree/master/0896-monotonic-array) |
 ## Sorting
@@ -41,9 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harsh-veer/Leetcode/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
