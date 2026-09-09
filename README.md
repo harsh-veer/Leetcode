@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh-veer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harsh-veer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harsh-veer/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh-veer/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harsh-veer/Leetcode/tree/master/0039-combination-sum) |
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harsh-veer/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/harsh-veer/Leetcode/tree/master/0896-monotonic-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-veer/Leetcode/tree/master/0015-3sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harsh-veer/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh-veer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harsh-veer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harsh-veer/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harsh-veer/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
