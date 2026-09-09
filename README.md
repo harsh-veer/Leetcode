@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh-veer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harsh-veer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh-veer/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -29,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh-veer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/harsh-veer/Leetcode/tree/master/0896-monotonic-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-veer/Leetcode/tree/master/0015-3sum) |
+| [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harsh-veer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
 | ------- |
