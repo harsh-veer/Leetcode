@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
+| [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/harsh-veer/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harsh-veer/Leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
