@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harsh-veer/Leetcode/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
@@ -103,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
