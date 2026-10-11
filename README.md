@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/harsh-veer/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/harsh-veer/Leetcode/tree/master/0896-monotonic-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harsh-veer/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-veer/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harsh-veer/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
