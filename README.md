@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/harsh-veer/Leetcode/tree/master/0044-wildcard-matching) |
+| [0257-binary-tree-paths](https://github.com/harsh-veer/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/harsh-veer/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harsh-veer/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsh-veer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harsh-veer/Leetcode/tree/master/0039-combination-sum) |
+| [0257-binary-tree-paths](https://github.com/harsh-veer/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harsh-veer/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harsh-veer/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-veer/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/harsh-veer/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/harsh-veer/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/harsh-veer/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harsh-veer/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harsh-veer/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh-veer/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/harsh-veer/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/harsh-veer/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/harsh-veer/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Enumeration
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harsh-veer/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harsh-veer/Leetcode/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/harsh-veer/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/harsh-veer/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/harsh-veer/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
