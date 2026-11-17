@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/harsh-veer/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/harsh-veer/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/harsh-veer/Leetcode/tree/master/0896-monotonic-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh-veer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harsh-veer/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harsh-veer/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harsh-veer/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harsh-veer/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/harsh-veer/Leetcode/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harsh-veer/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh-veer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harsh-veer/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
